@@ -1,0 +1,18 @@
+.root {
+    -fx-font-size: 12pt;
+}
+
+
+.label {
+   -fx-font-weight: bold;
+}
+
+.table-row-cell:selected {
+   -fx-font-weight: bold;
+}
+
+
+.table-cell{
+    -fx-text-fill: black;
+    -fx-border-color: lightgray;
+}

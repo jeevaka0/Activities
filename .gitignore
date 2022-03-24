@@ -1,0 +1,14 @@
+Activities.iml
+out
+Backup/*
+bin/activities.html
+bin/activities.jar
+bin/activities.jnlp
+bin/activities.run
+.idea/workspace.xml
+.idea/modules.xml
+.idea/gradle.xml
+.idea/uiDesigner.xml
+.idea/compiler.xml
+.idea/misc.xml
+
